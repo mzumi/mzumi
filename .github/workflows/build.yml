@@ -23,7 +23,7 @@ jobs:
           key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
           restore-keys: |
             ${{ runner.os }}-go-
-      - name: Commit and push if changed
+      - name: Update README
         run: |-
           go run main.go
           cat README.md
