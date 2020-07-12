@@ -12,3 +12,5 @@
 <!-- blog ends -->
 More on [mzumi's blog](https://blog.mzumi.com/)
 </td></tr></table>
+
+![Build](https://github.com/mzumi/mzumi/workflows/Build/badge.svg)
