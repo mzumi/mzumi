@@ -11,3 +11,6 @@
 * [VSCode の Go の debug 環境を構築](https://blog.mzumi.com/post/2020/08/06/go_debugger/) - 2020-08-06
 <!-- blog ends -->
 ➡️ [more blog posts...](https://blog.mzumi.com/)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzumi&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
