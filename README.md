@@ -1,8 +1,6 @@
 ### Hi there, I'm mzumi 👋
 
----
-
-### 📔 Latest Blog Posts
+### Latest Blog Posts
 <!-- blog starts -->
 * [Apple Watch Series 6 を買った](https://blog.mzumi.com/post/2020/09/10/apple_watch_series6/) - 2020-10-10
 * [Mac の設定](https://blog.mzumi.com/post/2020/08/18/settings_for_mac/) - 2020-08-18
@@ -12,5 +10,5 @@
 <!-- blog ends -->
 ➡️ [more blog posts...](https://blog.mzumi.com/)
 
----
-![Metrics](https://github.com/mzumi/mzumi/blob/main/github-metrics.svg)
+### Metrics
+![Metrics](https://github.com/mzumi/mzumi/blob/master/github-metrics.svg)
