@@ -13,4 +13,4 @@
 ➡️ [more blog posts...](https://blog.mzumi.com/)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzumi&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://github.com/mzumi/mzumi/blob/main/github-metrics.svg)
