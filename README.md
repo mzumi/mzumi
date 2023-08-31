@@ -1,5 +1,8 @@
 ### Hi there, I'm mzumi 👋
 
+### Metrics
+![Metrics](https://github.com/mzumi/mzumi/blob/master/github-metrics.svg)
+
 ### Latest Blog Posts
 <!-- blog starts -->
 * [Apple Watch Series 6 を買った](https://blog.mzumi.com/post/2020/09/10/apple_watch_series6/) - 2020-10-10
@@ -9,6 +12,3 @@
 * [VSCode の Go の debug 環境を構築](https://blog.mzumi.com/post/2020/08/06/go_debugger/) - 2020-08-06
 <!-- blog ends -->
 ➡️ [more blog posts...](https://blog.mzumi.com/)
-
-### Metrics
-![Metrics](https://github.com/mzumi/mzumi/blob/master/github-metrics.svg)
